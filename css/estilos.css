@@ -1,0 +1,16 @@
+body
+{
+	background: black;
+	font-size: 12px;
+	margin: 0 auto;
+	max-width: 1024px;
+}
+
+#seccion1 article
+{
+	text-align: center;
+	display: inline-block;
+	margin: 20px;
+	font-size: 15px;
+	width: 20%; 
+}
