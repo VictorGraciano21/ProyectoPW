@@ -14,3 +14,11 @@ body
 	font-size: 15px;
 	width: 20%; 
 }
+
+#CartaBocaArriba1,#CartaBocaArriba2,#CartaBocaArriba3,#CartaBocaArriba4,
+#CartaBocaArriba5,#CartaBocaArriba6,#CartaBocaArriba7,#CartaBocaArriba8,
+#CartaBocaArriba9,#CartaBocaArriba10,#CartaBocaArriba11,#CartaBocaArriba12,
+#CartaBocaArriba13,#CartaBocaArriba14,#CartaBocaArriba15,#CartaBocaArriba16
+{
+	display: none;
+}
